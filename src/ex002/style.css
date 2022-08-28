@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.frst-sect-container {
+    margin-block-start: 20px;
+    gap: 50px;
+}
+
+img {
+    max-width: 200px;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+span {
+    font-size: .8em;
+}
+
+.about-me-container {
+    border: 1px solid lightgray;
+    padding: 20px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+.text-about-me {
+    max-width: 500px;
+}
+
+.scnd-sect-container {
+    margin-block-start: 20px;
+    gap: 340px;
+}
